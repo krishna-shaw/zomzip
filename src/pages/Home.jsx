@@ -12,7 +12,7 @@ function Home() {
           </p>
 
           <div style={styles.buttonGroup}>
-            <Link to="/foods">
+            <Link to="/foodlist">
               <button style={styles.primaryButton}>Explore Foods</button>
             </Link>
 
